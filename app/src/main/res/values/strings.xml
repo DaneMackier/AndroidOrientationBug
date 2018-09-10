@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">OrientationBugTests</string>
+    <string name="title_activity_landscape">LandscapeActivity</string>
+</resources>
